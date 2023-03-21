@@ -4,12 +4,12 @@ const fs = require('fs');
 
 const configuration = new Configuration({
   organization: "org-bsDfHoAbZB5X6GZpWwjvP8LY",
-  apiKey: "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",
+  apiKey: "API_KEY_OPENAI",
 });
 
 const openai = new OpenAIApi(configuration);
 
-const apiKeyGoogleMaps = 'AIzaSyDRs1HuJdGttmyO1ivCXsdfhuFdYjw87dI';
+const apiKeyGoogleMaps = 'API_KEY_MAPS';
 
 const config = {
   method: 'get',
