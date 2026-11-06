@@ -1,0 +1,5 @@
+# Chaves vazadas no primeiro commit (54f77b2), já REVOGADAS em 2026-11-05.
+# Ficam ignoradas para o CI não falhar por causa do histórico.
+# Qualquer chave NOVA continua sendo bloqueada normalmente.
+54f77b24ec9b3281e9f775d606954d5351be93dd:src/index.js:openai-api-key:7
+54f77b24ec9b3281e9f775d606954d5351be93dd:src/index.js:gcp-api-key:12

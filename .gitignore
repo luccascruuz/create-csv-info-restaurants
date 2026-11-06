@@ -35,3 +35,10 @@ lerna-debug.log*
 !.vscode/extensions.json
 
 .env
+# Saída gerada
+/output
+.env.*
+!.env.example
+
+# Cache local (SQLite)
+/.cache
